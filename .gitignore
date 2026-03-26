@@ -1,0 +1,17 @@
+# Raw captures (18MB — processed versions are in dataset/)
+captures/
+
+# Auto-generated weight literal file (large, regenerate with export_weights.py)
+weights_esp32.py
+
+# Assignment PDF
+*.pdf
+
+# Claude Code internal file
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

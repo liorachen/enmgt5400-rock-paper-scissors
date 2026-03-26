@@ -1,0 +1,17 @@
+Rock Paper Scissors CNN — Training Summary
+=============================================
+
+Config:
+  PREPROCESSING : sobel
+  EPOCHS        : 80
+  BATCH_SIZE    : 32
+  LEARNING_RATE : 0.001
+  DROPOUT       : 0.4
+  AUG_FACTOR    : 10
+
+Results:
+  Final val accuracy : 100.0%
+  Best val accuracy  : 100.0%
+  Epochs trained     : 19
+
+Model saved to: model.h5
