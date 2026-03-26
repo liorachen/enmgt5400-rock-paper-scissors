@@ -1,5 +1,6 @@
 # train.py — Rock Paper Scissors CNN Training Script
 # ENMGT 5400
+# Written with assistance from Claude (Anthropic, claude.ai)
 #
 # Requirements:
 #   pip install tensorflow opencv-python numpy scikit-learn

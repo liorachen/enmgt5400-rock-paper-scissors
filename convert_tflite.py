@@ -1,5 +1,6 @@
 # convert_tflite.py — Convert Keras model to TFLite formats
 # ENMGT 5400
+# Written with assistance from Claude (Anthropic, claude.ai)
 #
 # Converts model.h5 → model_float.tflite (float32)
 #                   → model_quant.tflite  (int8 post-training quantization)

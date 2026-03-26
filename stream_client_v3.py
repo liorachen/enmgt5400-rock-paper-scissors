@@ -1,5 +1,6 @@
 # Simple Streaming Client for XIAO ESP32S3 Sense
 # For cnadler86 micropython-camera-API firmware
+# Written with assistance from Claude (Anthropic, claude.ai)
 # Modified by: Claude (Anthropic) for Nish's ENMGT 5400 project
 #
 # Receives raw RGB565 frames from the Xiao and displays them.

@@ -1,5 +1,6 @@
 # export_weights.py — Export BN-fused int8 weights for MicroPython inference
 # ENMGT 5400
+# Written with assistance from Claude (Anthropic, claude.ai)
 #
 # Loads model.h5, folds BatchNorm into Conv weights, quantizes each layer to
 # int8, and writes weights.bin — a compact binary file (~347 KB) to copy to ESP32.

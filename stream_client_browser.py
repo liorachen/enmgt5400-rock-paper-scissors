@@ -1,5 +1,6 @@
 # Browser-Based Streaming Client for XIAO ESP32S3 Sense
 # Opens a live view in your web browser instead of OpenCV
+# Written with assistance from Claude (Anthropic, claude.ai)
 # Modified by: Claude (Anthropic) for Nish's ENMGT 5400 project
 #
 # Requirements: pip install numpy Pillow
