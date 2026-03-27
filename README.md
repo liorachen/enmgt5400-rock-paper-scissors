@@ -1,6 +1,6 @@
 # Rock Paper Scissors CNN — ENMGT 5400
 
-A convolutional neural network that recognizes rock, paper, and scissors hand gestures using the XIAO ESP32S3 Sense camera, with on-device inference running entirely in MicroPython.
+A convolutional neural network that recognizes rock, paper, and scissors hand gestures using the [Seeed XIAO ESP32-S3 Sense](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) camera, with on-device inference running entirely in MicroPython.
 
 **Course:** ENMGT 5400 — Applications of AI for Engineering Managers, Cornell University
 **Dataset:** 307 images (103 rock, 100 paper, 104 scissors) captured from the ESP32 camera
